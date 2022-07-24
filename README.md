@@ -1,1 +1,3 @@
 # Visualization
+There are many useful tools in Python that can help analysts see trends and patterns in datasets, and I am no exception. Recently, I have been looking into Matplotlib and Seaborn - two of Python's best data visualization libraries. They support me in exploring the important features, and graphically depicting the data (Descriptive statistics). Specially, I can look at the boxplots to detect outliers from which to find the optimal ways in pre-processing data.
+Thanks to the common TITANIC datasets - the likelihood of survival on the Titanic, I used the knowledge of these packages to begin to really practice on this real data.
